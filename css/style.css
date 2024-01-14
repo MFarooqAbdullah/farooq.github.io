@@ -550,7 +550,7 @@ th {
 }
 
 .os {
-	top: 75%;
+	top: 77%;
 	left: 30%;
 	margin-left: -64px;
 	margin-top: -74px;
@@ -617,8 +617,8 @@ th {
 	width: 120px
 }
 
-.cms {
-	font-size: 16px;
+.express {
+	font-size: 13px;
     top: 22%;
     left: 85%;
     margin-left: -65px;
@@ -626,9 +626,9 @@ th {
     width: 120px;
 }
 
-.python {
-    font-size: 18px;
-    top: 13.5%;
+.db {
+    font-size: 17px !important;
+    top: 11.5%;
     left: 60%;
     margin-left: -57px;
     margin-top: -57px;
@@ -636,19 +636,19 @@ th {
     width: 106px;
 
 }
-.asp {
-    font-size: 14px;
-    top: 8%;
+.nest {
+    font-size: 17px;
+    top: 9%;
     left: 80%;
     margin-left: -55px;
     margin-top: -71px;
     padding-top: 38px;
     width: 106px;
-
+	font-weight: lighter;
 }
 
-.php {
-	font-size: 22px;
+.node {
+	font-size: 15px;
     top: 36%;
     left: 88%;
     margin-left: -63px;
@@ -657,17 +657,18 @@ th {
 }
 
 .sql {
-	font-size: 19px;
-	top: 54%;
+	font-size: 12px;
+	top: 52%;
 	left: 32%;
 	margin-left: -64px;
 	margin-top: -14px;
-	width: 120px
+	width: 120px;
+	font-weight: lighter
 }
 
 .cs {
-	font-size: 20px;
-    top: 86%;
+	font-size: 16px;
+    top: 85%;
     left: 13%;
     margin-left: -64px;
     margin-top: -14px;
@@ -675,8 +676,8 @@ th {
 }
 
 .java {
-	font-size: 18px;
-	top: 68%;
+	font-size: 12px;
+	top: 67%;
 	left: 19%;
 	margin-left: -64px;
 	margin-top: -15px;
@@ -685,7 +686,7 @@ th {
 
 .cpp {
 	font-size: 17px;
-    top: 89%;
+    top: 87%;
     left: 38%;
     margin-left: -63px;
     margin-top: -13px;
@@ -730,8 +731,8 @@ th {
     width: 120px;
 }
 .PSQL {
-	    font-size: 23px;
-    top: 91%;
+	    font-size: 13px;
+    top: 89%;
     left: 72%;
     margin-left: -57px;
     margin-top: -7px;
@@ -827,7 +828,7 @@ font-size: 15px;
 
 #education .university p {
 	 position: absolute;
-    margin-top: 155px;
+    margin-top: 100px;
     left: 50%;
     margin-left: 56px;
     width: 400px;
@@ -851,7 +852,7 @@ font-size: 15px;
 
 #education .udacity p {
 	    position: absolute;
-    margin-top: 374px;
+    margin-top: 350px;
     left: 50%;
     margin-left: -389px;
     width: 400px;
@@ -874,7 +875,7 @@ font-size: 15px;
 }
 .date1 {
 	    position: absolute;
-    margin-top: 197px;
+    margin-top: 160px;
     left: 50%;
     margin-left: -388px;
     width: 400px;
@@ -886,8 +887,8 @@ font-size: 15px;
 
 .date2 {
 	       position: absolute;
-    margin-top: 403px;
-    margin-left: -95px;
+    margin-top: 420px;
+    margin-left: -140px;
     left: 50%;
     width: 400px;
     text-align: -webkit-right;
